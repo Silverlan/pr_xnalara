@@ -1,0 +1,3 @@
+[submodule "third_party/XNAlaraLib"]
+	path = third_party/XNAlaraLib
+	url = https://github.com/REDxEYE/XNAlaraLib.git
